@@ -1,0 +1,20 @@
+
+@font-face {
+font-family: 'HansKendrick';
+src: url('../fonts/neuehanskendrick-regular-webfont.woff2') format('woff2'),
+url('../fonts/neuehanskendrick-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+$ff-font:'HansKendrick';
+
+$body-color:#1d1d1d;
+$primary-color:#818181;
+$secondary-color:#fff;
+
+$images-height:251px;
+$avatar-size:57px;
+
+$body-bg:#e2e7ec;
+
